@@ -1,2 +1,10 @@
 # Compiled binary
 /rustdeskdiscover
+
+# Go build/test dirs
+/bin/
+/package/
+
+# OpenWrt build artifacts and extracted SDK
+/openwrt/bin/
+/openwrt/sdk-work/

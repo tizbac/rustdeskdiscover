@@ -1,0 +1,13 @@
+{
+	"admin/services/rustdesk": {
+		"title": "RustDesk Discovery",
+		"order": 60,
+		"action": {
+			"type": "view",
+			"path": "rustdesk/peers"
+		},
+		"depends": {
+			"acl": [ "luci-app-rustdesk-discover" ]
+		}
+	}
+}

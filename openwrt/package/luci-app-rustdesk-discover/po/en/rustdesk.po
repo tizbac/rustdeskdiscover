@@ -1,0 +1,56 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+msgid "RustDesk Discovery"
+msgstr "RustDesk Discovery"
+
+msgid "RustDesk LAN Discovery"
+msgstr "RustDesk LAN Discovery"
+
+msgid "Shows RustDesk clients discovered on the local network."
+msgstr "Shows RustDesk clients discovered on the local network."
+
+msgid "Daemon"
+msgstr "Daemon"
+
+msgid "Running"
+msgstr "Running"
+
+msgid "Not running"
+msgstr "Not running"
+
+msgid "Last update"
+msgstr "Last update"
+
+msgid "Actions"
+msgstr "Actions"
+
+msgid "Rescan Now"
+msgstr "Rescan Now"
+
+msgid "Scan restarted."
+msgstr "Scan restarted."
+
+msgid "RustDesk ID"
+msgstr "RustDesk ID"
+
+msgid "Hostname"
+msgstr "Hostname"
+
+msgid "MAC Address"
+msgstr "MAC Address"
+
+msgid "Username"
+msgstr "Username"
+
+msgid "Platform"
+msgstr "Platform"
+
+msgid "IP Address"
+msgstr "IP Address"
+
+msgid "Discovered Peers ("
+msgstr "Discovered Peers ("
+
+msgid "No RustDesk peers discovered yet."
+msgstr "No RustDesk peers discovered yet."

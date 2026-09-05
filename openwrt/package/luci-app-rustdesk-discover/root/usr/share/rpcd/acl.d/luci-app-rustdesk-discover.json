@@ -1,0 +1,15 @@
+{
+	"luci-app-rustdesk-discover": {
+		"description": "Grant access to the RustDesk Discovery status and rescan actions",
+		"read": {
+			"ubus": {
+				"luci.rustdesk": [ "peers", "restart" ]
+			}
+		},
+		"write": {
+			"ubus": {
+				"luci.rustdesk": [ "restart" ]
+			}
+		}
+	}
+}
